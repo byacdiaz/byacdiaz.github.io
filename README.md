@@ -14,6 +14,8 @@
   - 2024: 33/107
   - 2025: 67/112
 
+<img src="assets/css/IMG_1761.jpeg" alt="The SkyChair Team Photo 2026" width="600">
+
 ### The SkyChair ([Details](skychair))
 - ME170 Senior Capstone Project
 - [Project Report](https://doi.org/10.25740/tb591rk8388)
