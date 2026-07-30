@@ -13,7 +13,7 @@
 
 ### The SkyChair ([Details](skychair))
 - ME170 Senior Capstone Project
-- 
+- [Project Report](https://doi.org/10.25740/tb591rk8388)
 
 # Education
 - Stanford University - MS in Aeronautics/Astronautics
@@ -64,6 +64,3 @@
 - Intermediate Fluid Mechanics
 - Intermediate Thermodynamics
 - Heat Transfer
-
-
-[Read full AIAA Design/Build/Fly Structural Analysis →](skychair)
