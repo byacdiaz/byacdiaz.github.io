@@ -50,6 +50,20 @@
 - Python, MATLAB, iNav, Microsoft Office, Jira
 
 ## Coursework
-- 
+- Analysis of Structures
+- Mechanics of Composite Materials
+- Mechanical Systems Design
+- Advanced Dynamics & Computation
+- Dynamic Systems, Vibrations & Control
+- Control Design Techniques
+- Computational Engineering
+- Optimal & Learning-Based Control
+- Advanced Feedback Control Design
+- Flight Mechanics & Controls
+- Applied Aerodynamics
+- Intermediate Fluid Mechanics
+- Intermediate Thermodynamics
+- Heat Transfer
+
 
 [Read full AIAA Design/Build/Fly Structural Analysis →](skychair)
