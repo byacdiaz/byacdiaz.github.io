@@ -1,7 +1,7 @@
 # Portfolio
 ## [Resume](https://drive.google.com/file/d/1cDfSkI44ZAzvjiXbxKK9JYaN-akUX4o0/view?usp=sharing)
 ## Projects
-### Stanford AIAA Design/Build/Fly
+### Stanford AIAA Design/Build/Fly ([Details](dbf))
 - Description of the comp
 - Roles Served
   - Structures Lead (Oct 2024 - April 2025)
@@ -11,7 +11,7 @@
   - 2024: 33/107
   - 2025: 67/112
 
-### The SkyChair
+### The SkyChair ([Details](skychair))
 - ME170 Senior Capstone Project
 - 
 
