@@ -1,6 +1,9 @@
 # Portfolio
 ## [Resume](https://drive.google.com/file/d/1cDfSkI44ZAzvjiXbxKK9JYaN-akUX4o0/view?usp=sharing)
 ## Projects
+
+<img src="assets/css/BD_02207.jpg" alt="AIAA DBF Team Photo 2025" width="600">
+
 ### Stanford AIAA Design/Build/Fly ([Details](dbf))
 - Description of the comp
 - Roles Served
