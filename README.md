@@ -24,11 +24,16 @@
   - GPA: 4.09/4.30
 
 # Work History
-Structures Engineering Intern | Radia, Inc. | Boulder, CO | June 2026 - Present
-Mechanical Systems Engineering Intern | Radia, Inc. | Boulder, CO | June 2025 - Sept 2025
-Aerospace Engineering Intern | Sabrewing Aircraft Co. | Hayward, CA | June 2024 - Sept 2024
-Materials Engineering Intern | The Port Authority of NY & NJ | Jersey City, NJ | June 2023 - Aug 2023
-Civil Engineering Intern | Pennoni, Inc. | Newark, NJ | March 2022 - June 2022
+- Structures Engineering Intern - Radia, Inc.
+  - June 2026 - Present (Boulder, CO)
+- Mechanical Systems Engineering Intern - Radia, Inc. 
+  - June 2025 - Sept 2025 (Boulder, CO)
+- Aerospace Engineering Intern - Sabrewing Aircraft Co. 
+  - June 2024 - Sept 2024 (Hayward, CA)
+- Materials Engineering Intern - The Port Authority of NY & NJ
+  - June 2023 - Aug 2023 (Jersey City, NJ)
+- Civil Engineering Intern - Pennoni, Inc.
+  - March 2022 - June 2022 (Newark, NJ)
 
 # Skills & Coursework
 ## Technical Skills
