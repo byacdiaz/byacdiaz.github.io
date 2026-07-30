@@ -15,4 +15,4 @@
 # Work History
 - Workppalce
 
-[Read full AIAA Design/Build/Fly Structural Analysis →](dbf-project)
+[Read full AIAA Design/Build/Fly Structural Analysis →](skychair)
