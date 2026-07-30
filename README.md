@@ -1,4 +1,13 @@
-# byacdiaz.github.io
+---
+layout: default
+title: Brad Yac-Diaz | Aerospace Portfolio
+---
+
+<style>
+  header p.view { display: none !important; }
+</style>
+
+# Portfolio
 
 ## Projects
 ### Project 1
