@@ -4,19 +4,20 @@
 <img src="assets/css/BD_02207.jpg" alt="AIAA DBF Team Photo 2025" width="600">
 
 ## Stanford AIAA Design/Build/Fly ([Details](dbf))
-- Description of the comp
+- Led development of mission-capable RC aircraft from requirements definition and clean sheet design to flight testing and competing in the annual competition. Primarily focused on structural design and analysis of major subsystems (fuselage, wing, empennage, landing gear).
 - Roles Served
   - Structures Lead (Oct 2024 - April 2025)
   - Team Captain & Project Manager (Oct 2023 - April 2024)
 - Performance
-  - 2023: 21/99
-  - 2024: 33/107
-  - 2025: 67/112
+  - Tucson 2023: 21/99
+  - Wichita 2024: 33/107
+  - Tucson 2025: 67/112
 
 <img src="assets/css/IMG_1761.jpeg" alt="The SkyChair Team Photo 2026" width="600">
 
 ## The SkyChair ([Details](skychair))
-- ME170 Senior Capstone Project
+- ME170 Senior Capstone Project, received Henry O. Fuchs award for Best Capstone Project in 2026.
+- Created a 250-lb capacity wheelchair that allows a wheelchair user to independently convert into an aisle chair with linear actuators and to be assisted to their seat on an aircraft without being carried off their wheelchair. Additionally led development of a novel wheelchair wheel design capable of sustaining wheelchair limit loads and collapsing down to smaller form factor in a main cabin overhead bin.
 - [Project Report](https://doi.org/10.25740/tb591rk8388)
 
 # Education
