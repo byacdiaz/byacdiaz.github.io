@@ -1,8 +1,3 @@
----
-layout: default
-title: Portfolio | Brad Yac-Diaz
----
-
 # [Resume](https://drive.google.com/file/d/1cDfSkI44ZAzvjiXbxKK9JYaN-akUX4o0/view?usp=sharing){:target="_blank"}
 # Portfolio
 
