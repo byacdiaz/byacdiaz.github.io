@@ -8,7 +8,7 @@ title: Portfolio | Brad Yac-Diaz
 
 <img src="assets/css/BD_02207.jpg" alt="AIAA DBF Team Photo 2025" width="600">
 
-## Stanford AIAA Design/Build/Fly ([Details](dbf){:target="_blank"})
+## Stanford AIAA Design/Build/Fly ([Details](dbf))
 - [Design Reports (2023, 2024, 2025)](https://drive.google.com/drive/folders/1GJit1XIiHFpwD-hpfljR6UH6ARk5dIOt?usp=sharing){:target="_blank"}
 - Led development of mission-capable RC aircraft from requirements definition and clean sheet design to flight testing and competing in the annual competition. Primarily focused on structural design and analysis of major subsystems (fuselage, wing, empennage, landing gear).
 - Roles Served
