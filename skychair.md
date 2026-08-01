@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AIAA Design/Build/Fly | Brad Yac-Diaz
+title: The SkyChair | Brad Yac-Diaz
 ---
 
 # The SkyChair: A Foldable, Dual-Mode Wheelchair Design for Improved Accessibility on Commercial Flights
