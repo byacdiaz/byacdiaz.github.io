@@ -2,6 +2,3 @@ title: Brad Yac-Diaz
 logo: assets/css/BD_02558 copy.png
 description: Structural Engineer in Aerospace
 theme: jekyll-theme-minimal
-markdown: kramdown
-kramdown:
-  syntax_highlighter: rouge
