@@ -1,10 +1,10 @@
-# [Resume](https://drive.google.com/file/d/1cDfSkI44ZAzvjiXbxKK9JYaN-akUX4o0/view?usp=sharing){:target="_blank"}
+# [Resume](https://drive.google.com/file/d/1cDfSkI44ZAzvjiXbxKK9JYaN-akUX4o0/view?usp=sharing)
 # Portfolio
 
 <img src="assets/css/BD_02207.jpg" alt="AIAA DBF Team Photo 2025" width="600">
 
 ## Stanford AIAA Design/Build/Fly ([Details](dbf))
-- [Design Reports (2023, 2024, 2025)](https://drive.google.com/drive/folders/1GJit1XIiHFpwD-hpfljR6UH6ARk5dIOt?usp=sharing){:target="_blank"}
+- [Design Reports (2023, 2024, 2025)](https://drive.google.com/drive/folders/1GJit1XIiHFpwD-hpfljR6UH6ARk5dIOt?usp=sharing)
 - Led development of mission-capable RC aircraft from requirements definition and clean sheet design to flight testing and competing in the annual competition. Primarily focused on structural design and analysis of major subsystems (fuselage, wing, empennage, landing gear).
 - Roles Served
   - Structures Lead (Oct 2024 - April 2025)
@@ -16,9 +16,9 @@
 
 <img src="assets/css/IMG_1761.jpeg" alt="The SkyChair Team Photo 2026" width="600">
 
-## The SkyChair ([Details](skychair){:target="_blank"})
-- [Project Report](https://doi.org/10.25740/tb591rk8388){:target="_blank"}
-- [Public Design Review](https://drive.google.com/drive/folders/1tpy2Hlsx3DAhfCNtsLUzigW1trLMWchZ?usp=sharing){:target="_blank"}
+## The SkyChair ([Details](skychair))
+- [Project Report](https://doi.org/10.25740/tb591rk8388)
+- [Public Design Review](https://drive.google.com/drive/folders/1tpy2Hlsx3DAhfCNtsLUzigW1trLMWchZ?usp=sharing)
 - ME170 Senior Capstone Project. Received Henry O. Fuchs award for Best Capstone Project in 2026.
 - Created a 250-lb capacity wheelchair that allows a wheelchair user to independently convert into an aisle chair with linear actuators and to be assisted to their seat on an aircraft without being carried off their wheelchair. Additionally led development of a novel wheelchair wheel design capable of sustaining wheelchair limit loads and collapsing down to smaller form factor in a main cabin overhead bin.
 
@@ -45,7 +45,7 @@
 # Skills & Coursework
 ## Technical Skills
 ### CAD
-- CATIA V5/V6, Fusion 360, SOLIDWORKS
+- CATIA V5/V6, Fusion 360, SOLIDWORKS (CSWA)
 
 ### Analysis & Simulation
 - HyperWorks, HyperMesh, OptiStruct, MSC Nastran, HyperSizer, HyperX, SimLab
